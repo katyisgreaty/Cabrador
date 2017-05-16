@@ -7,7 +7,7 @@
 ## Description
 
 _This webpage allows the user to create an account and book a ride with a driver and a cute dog._
-
+ 
 ## Setup/Installation Requirements
 
 * Clone the git from the repository at https://github.com/katyisgreaty/Cabrador.
